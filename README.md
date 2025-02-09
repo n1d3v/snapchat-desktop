@@ -1,2 +1,2 @@
-# snapchat-desktop
-A client for Snapchat Web with a few extra quirks!
+# Snapchat Desktop
+A custom Snapchat Web client that gives Snapchat a few extra additions!
